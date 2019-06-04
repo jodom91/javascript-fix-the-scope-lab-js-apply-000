@@ -1,3 +1,5 @@
+//clean up the scope
+
 function myAnimal() {
   var animal = 'dog';
   return animal
